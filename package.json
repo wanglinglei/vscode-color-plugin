@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "url": "https://github.com/wanglinglei/vscode-color-plugin",
+    "type": "vscode plugin"
+  },
   "keywords": [
     "css","color"
   ],
